@@ -11,3 +11,7 @@ Este é um projeto desenvolvido como parte do curso de Full-Stack da Rocketseat.
 
 - Estruturação de uma página de receita com cabeçalho, rodapé e conteúdo principal
 - Personalização de espaçamentos e estilos
+
+## Preview do Projeto
+
+![Preview do Projeto](assets/preview.png)
