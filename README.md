@@ -9,7 +9,7 @@ Este é um projeto desenvolvido como parte do curso de Full-Stack da Rocketseat.
 
 ## Funcionalidades
 
-- Estruturação de uma página de receita com cabeçalho, rodapé e conteúdo principal
+- Estruturação de uma página de receita com conteúdo principal e rodapé
 - Personalização de espaçamentos e estilos
 
 ## Preview do Projeto
